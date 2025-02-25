@@ -265,8 +265,8 @@ document.addEventListener('DOMContentLoaded', function() {
         cvButton.addEventListener('click', function(e) {
             e.preventDefault();
                 // Path to your CV PDF file
-            const cvPath = 'images/derrick muriithi cv.pdf'; // Update this path
-            
+          //  const cvPath = 'images/derrick muriithi cv.pdf'; //
+            // Update this path
             // Open the PDF in a new tab
             window.open(cvPath, '_blank');
             
